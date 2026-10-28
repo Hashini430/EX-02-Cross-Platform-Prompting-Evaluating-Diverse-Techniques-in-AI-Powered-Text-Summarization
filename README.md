@@ -508,14 +508,6 @@ Zero-shot, few-shot, structured checklist, role-based, and constraint-based prom
 
 The weighted scoring framework provides a practical method for comparing quality, speed, and user experience. The final recommendation should be based on observed evidence, with experimental limitations clearly documented. Until the required experiments are completed, declaring a definitive winning platform or prompting technique would be unsupported.
 
-# 14. References
-
-1. A. M. Rush, “The Abstractive Summarization of Documents,” *Foundations and Trends in Information Retrieval*, vol. 12, no. 3, pp. 177–243, 2018.
-2. T. B. Brown et al., “Language Models are Few-Shot Learners,” *Advances in Neural Information Processing Systems*, vol. 33, 2020.
-3. OpenAI, “Prompt Engineering,” OpenAI documentation. Consult the current official documentation when defining the experimental protocol.
-4. S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System,” 2008. Available at: https://bitcoin.org/bitcoin.pdf
-
-**Reference note:** Verify bibliographic details and access dates before final submission. Cite only sources actually consulted.
 
 ---
 
